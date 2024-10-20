@@ -28,14 +28,14 @@ HabitQuest is a habit tracking application built using the MERN stack (MongoDB, 
 
 ## Screenshots
 
-![App Screenshot](https://i.postimg.cc/T3Y9hyrx/68747470733a2f2f692e696d6775722e636f6d2f504268466b39792e706e67-1920-986-Brave-20-10-2024-03-42-3.png)
+![App Screenshot](https://i.imgur.com/0vKrN4F.png)
 
-![App Screenshot](https://i.postimg.cc/2jQFwdGm/68747470733a2f2f692e696d6775722e636f6d2f504268466b39792e706e67-1920-986-Brave-20-10-2024-03-43-3.png)
+![App Screenshot](https://i.imgur.com/RjztgyM.png)
 
-![App Screenshot](https://i.postimg.cc/pXkQN236/68747470733a2f2f692e696d6775722e636f6d2f504268466b39792e706e67-1920-986-Brave-20-10-2024-03-43-4.png)
+![App Screenshot](https://i.imgur.com/ioaiZl0.png)
 
-![App Screenshot](https://i.postimg.cc/zGcnBxzw/68747470733a2f2f692e696d6775722e636f6d2f504268466b39792e706e67-1920-986-Brave-20-10-2024-03-44-1.png)
+![App Screenshot](https://i.imgur.com/fOMafpK.png)
 
-![App Screenshot](https://i.postimg.cc/qq4KYYwr/68747470733a2f2f692e696d6775722e636f6d2f504268466b39792e706e67-1920-986-Brave-20-10-2024-03-44-2.png)
+![App Screenshot](https://i.imgur.com/UHXkHnC.png)
 
 
