@@ -1,41 +1,73 @@
+# 🎯 HabitQuest
 
-# HabitQuest
+HabitQuest is a full-stack habit-tracking application designed to help users build and maintain positive routines. It combines the power of the MERN stack with AI-driven motivation to provide a rewarding habit-building experience.
 
-HabitQuest is a habit tracking application built using the MERN stack (MongoDB, Express, React, Node.js) that allows users to create, track, and manage their habits. It integrates with Gemini AI to generate personalized motivational rewards based on user performance and streaks.
- Visit the site here ->>>> https://habitquest.netlify.app/
+🔗 **Live Demo:** [habitquest.netlify.app](https://habitquest.netlify.app/)
 
+## ✨ Features
 
-## Features
+- **AI Motivation:** Personalized rewards and motivational messages powered by Gemini AI.
+- **Streak Tracking:** Keep the momentum going with visual streak indicators and customizable targets.
+- **Secure Auth:** JWT-based authentication for secure and persistent user sessions.
+- **Modern UI:** Responsive and clean interface built with React and Tailwind CSS.
+- **Detailed Insights:** Habit details and progress tracking via intuitive modals.
 
-- AI-Powered Motivational Messages through Gemini AI based on habit progress.
-- Streak Tracking for habits with customizable target days.
-- Secure JWT Authentication for user login and persistent sessions.
-- Responsive UI with modern design and habit detail pop-up modals.
+## 🚀 Tech Stack
 
+### Frontend
+- **React.js** (Vite)
+- **Tailwind CSS** for styling
+- **Axios** for API communication
+- **React Router** for navigation
 
-## Tech Stack
+### Backend
+- **Node.js & Express.js**
+- **MongoDB & Mongoose** for data persistence
+- **JSON Web Tokens (JWT)** for authentication
+- **Zod** for schema validation
 
-**Frontend:** React.js, Axios, Tailwind CSS
+### AI Integration
+- **Gemini AI API** for generating motivational content
 
-**Backend:**  Node.js, Express.js
+## 🛠️ Getting Started
 
-**Database:**  MongoDB
+### Prerequisites
+- Node.js (v14+)
+- MongoDB account/instance
+- Gemini AI API Key
 
-**AI Integration:** Gemini AI (via API)
+### Installation
 
-**Authentication:** Gemini AI (via API)
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Lohitha0607/HabitQuest.git
+   cd HabitQuest
+   ```
 
+2. **Setup Backend:**
+   ```bash
+   cd backend
+   npm install
+   # Create a .env file and add your MONGO_URL, JWT_SECRET, and GEMINI_API_KEY
+   node index.js
+   ```
 
-## Screenshots
+3. **Setup Frontend:**
+   ```bash
+   cd ../frontend
+   npm install
+   npm run dev
+   ```
 
-![App Screenshot](https://i.imgur.com/0vKrN4F.png)
+## 📸 Screenshots
 
-![App Screenshot](https://i.imgur.com/RjztgyM.png)
+<div align="center">
+  <img src="https://i.imgur.com/0vKrN4F.png" width="400" alt="Dashboard"/>
+  <img src="https://i.imgur.com/RjztgyM.png" width="400" alt="Habit List"/>
+  <img src="https://i.imgur.com/ioaiZl0.png" width="400" alt="Add Habit"/>
+  <img src="https://i.imgur.com/fOMafpK.png" width="400" alt="Progress View"/>
+  <img src="https://i.imgur.com/UHXkHnC.png" width="400" alt="Mobile View"/>
+</div>
 
-![App Screenshot](https://i.imgur.com/ioaiZl0.png)
-
-![App Screenshot](https://i.imgur.com/fOMafpK.png)
-
-![App Screenshot](https://i.imgur.com/UHXkHnC.png)
-
-
+---
+Made with ❤️ by [Lohitha](https://github.com/Lohitha0607)
